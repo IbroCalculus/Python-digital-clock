@@ -1,3 +1,2 @@
-# simplepythondigitalclock1
-Python code
+# simplepythondigitalclock
 This is a tkinter gui short program
